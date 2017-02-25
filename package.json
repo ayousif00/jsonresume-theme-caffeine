@@ -18,7 +18,7 @@
     "node": ">=4.0.0"
   },
   "scripts": {
-    "start": "gulp && gulp serve"
+    "start": "gulp && gulp export"
   },
   "devDependencies": {
     "browser-sync": "^2.18.5",
