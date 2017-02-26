@@ -4,7 +4,7 @@
             {{#each resume.skills}}
             <section class="container">
                 {{#if name}}
-                     <li><h6 {{> title value=name}}</h6></li>
+                     <ul class="minimal"> {{> title value=name}} </ul>
                 {{/if}}
                 {{#if keywords.length}}
                     <ul class="minimal">
