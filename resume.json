@@ -1,0 +1,215 @@
+{
+  "basics": {
+    "name": "Abdulrahman Yousif",
+    "label": "Mechanical Engineer",
+    "picture": "http://i.imgur.com/3K7zL7M.jpg",
+    "email": "ayousif00@gmail.com",
+    "phone": "(+60) 017-3382347",
+    "website": "https://www.abdulous.com",
+    "summary": "Abdulrahman Yousif Hails from Sudan. He has earned degrees from the Universiti Putra Malaysia and Universiti Teknologi PETRONAS. Before starting as a Mechanical Engineer, he worked for Fluxmatics as a part-time CFD/FEA Engineer. While his work focuses on Green Building consulting and Sustainability strategies, his non-work interests range widely, everything from Photography to an electronics hobbyist. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "location": {
+      "address": "No.12, Jalan Mesra Utama 2, Taman Mesra Utama",
+      "postalCode": "43000",
+      "city": "Kajang",
+      "countryCode": "MY",
+      "region": "MY"
+    }
+  },
+  "work": [
+    {
+      "company": "EAG Consulting Sdn. Bhd. (limited)",
+      "position": "Mechanical Engineer",
+      "website": "http://eag.my",
+      "startDate": "2016-11-01",
+      "summary": "EAG Consulting is Green Building Consulting specialised in offering a complete set of professional green building services related to sustainable building and green building certification and green building strategy.",
+      "highlights": [
+        "Design and Formulate sustainability strategy, prepare reports and design reviews for clients as part of Green Building Index (GBI) and LEED certifications.",
+        "Prepared Architecture, Landscape and Mechanical and Electrical Design reviews to ensure the project team will achieve the targeted green building rating.",
+        "Assisted in the Modelling of projects with simulation software such as eQUEST and, in order to provide optimised designs to achieve a lower total building energy consumption.",
+        "Utilising computer modelling and to conduct calculations such as OTTV, RTTV, Air Flow and other analysis for certification requirements.",
+        "Coordinated with clients and other consultants on the projects’ design along with its green compliance in Client Consultant Meetings and Technical Coordination Meetings.",
+        "Utilise Technical and design knowledge of ACMV & HVAC Systems and concepts – Cooling Load Calculation, Radiant Cooling, Ventilation Rate Requirement, Under Floor Air Distribution, High-Efficiency Chillers for the requirements of ASHRAE 62.1 and ASHRAE 55."
+      ]
+    },
+    {
+      "company": "Fluxmatics",
+      "position": "Simulation Engineer",
+      "website": "https://www.fluxmatics.com",
+      "startDate": "2016-03-01",
+      "summary": "Fluxmatics specialise in providing engineering solutions that require advanced engineering, high technological value, requiring bespoke solutions, and advanced analysis tools with an emphasis on the affordable development of new technologies.",
+      "highlights" : [
+        "As a freelance CFD engineer, I offered a range of services including research and development.",
+        "Working on CFD simulations of single and multi-phase flows in ANSYS Fluent, OpenFOAM and Star-CCM+.",
+        "Enjoyed setting up and adapting technologies and learned a lot about networking, budgeting and conducting negotiations."
+      ]
+    },
+    {
+      "company": "School of Engineering, Taylor’s University",
+      "position": "Research Assistant",
+      "website": "http://university.taylors.edu.my",
+      "startDate": "2015-10-01",
+      "endDate": "2016-02-01",
+      "summary": "Taylor's University offers courses in tertiary education, from foundation and diploma to degree, post-graduate and professional programs.",
+      "highlights" : [
+        "Carried out an ecological footprint study on the usage of Solar hybrid power systems a regional island",
+        "Utilised ANSYS Fluent to conduct a study on fluid flow-solar heat interaction."
+        ]
+    },
+    {
+      "company": "Universiti Teknologi PETRONAS",
+      "position": "Research Assistant",
+      "website": "https://utp.edu.my",
+      "startDate": "2013-05-01",
+      "endDate": "2015-10-01",
+      "summary": "Universiti Teknologi PETRONAS is a private university in Malaysia that places a strong emphasis on research and development, conducting extensive research activities in collaboration with PETRONAS and other institutions and industries locally and abroad focusing on Enhanced Oil Recovery, Carbon Dioxide Management, Deepwater Technology, Nanotechnology and other emerging technologies. The university is a wholly owned subsidiary of PETRONAS, the national oil company of Malaysia.",
+      "highlights" : [
+        "Participated in a Flow Assurance Consulting project for PETRONAS Research by evaluating aged flow assurance equipment and preparing an advisory usage report.",
+        "Co-supervised several projects including: ”Investigation on stability mechanism and behaviour of waxy crude oil emulsion and the rag layer from Malay basin,” “Entrance length of Non-Newtonian Polymer Fluids” and “Exploring Gravity-Driven Flow Setup for Drag Reduction Assessment of Polyacrylamide and Xanthan Gum Solutions.”"
+        ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Society of Petroleum Engineers (SPE)",
+      "position": "Translator",
+      "website": "https://www.spe.org/en/",
+      "startDate": "2015-12-01",
+      "summary": "Provide Assistance to SPE in translating glossary terms, articles, and papers from English into other languages."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universiti Teknologi PETRONAS",
+      "area": "Mechanical engineering",
+      "studyType": "M.Sc.Eng.",
+      "startDate": "2013-05-15",
+      "endDate": "2016-03-01",
+      "gpa": "Research Based"
+    },
+    {
+      "institution": "Universiti Putra Malaysia",
+      "area": "Mechanical engineering",
+      "studyType": "B.Sc. (Honours)",
+      "startDate": "2008-07-14",
+      "endDate": "2012-11-24",
+      "gpa": "Second-class honours, upper division (2:1)",
+      "courses": [
+        "EMM4408 - Strength of Materials III",
+        "EMM3312 - Fluid Mechanics II",
+        "EMM4702 - Manufacturing Process II"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Full Research Scholarship",
+      "date": "2013-04-01",
+      "awarder": "University Teknologi PETRONAS",
+      "summary": "Research Scholarship for the full duration of the study"
+    },
+    {
+      "title": "Final Year Project Award for Best poster and presentation",
+      "date": "2012-07-01",
+      "awarder": "Universiti Putra Malaysia",
+      "summary": "Dean's Award for best poster and presentation of Graduating Projects of 2012."
+    },
+    {
+      "title": "National EIMARace 2009 and 2010",
+      "date": "2010-06-01",
+      "awarder": "Universiti Teknologi Malaysia",
+      "summary": "The annual Educational Innovation in Motor-sport and Automotive Race is based on the International Formula SAE and is a National competition."
+    }
+  ],
+  "publications": [
+    {
+      "name": "CFD Modelling and Validation of Newtonian and Non-Newtonian Fluids in Curved Conduits",
+      "publisher": "Applied Mechanics and Materials (Volume 786)",
+      "releaseDate": "2015-08-01",
+      "website": "https://www.scientific.net/AMM.786.181",
+      "summary": "Details the results of CFD modelling of drag reduction agents polymer additives dissolved in a Newtonian solvent."
+    },
+    {
+      "name": "Effects of Polymer Addition to a Newtonian Solvent in Horizontal Pipe Flow",
+      "publisher": "Journal of Applied Sciences (Volume 16), issue 6",
+      "releaseDate": "2016-06-01",
+      "website": "http://adsabs.harvard.edu/abs/2016JApSc..16..271A",
+      "summary": "A series of experiments in a flow loop to experimentally determine and investigate the flow behaviour of various types of Non-Newtonian shear thinning fluid in turbulent flow while relating the behaviour to its rheological characteristics."
+    }
+  ],
+  "skills": [
+    {
+      "name": "CFD/CAE Skills",
+      "keywords": [
+        "ANSYS CFX",
+        "ANSYS Fluent",
+        "OpenFOAM",
+        "SnappyHexMesh"
+      ]
+    },
+    {
+      "name": "CAD/Simulation Skills",
+      "keywords": [
+        "EnergyPlus simulation",
+        "eQUEST",
+        "Autodesk Inventor and Solidworks (CAD)",
+        "Schlumberger OLGA",
+        "C++ and Python",
+        "Linux"
+      ]
+    },
+    {
+      "name": "Soft Engineering knowledge",
+      "keywords": [
+        "Production Engineering",
+        "Engineering Design",
+        "sustainable Engineering and Design",
+        "Fluid rheology",
+        "Enhanced oil recovery (EOR)",
+        "Fluid mechanics",
+        "CFD/FEA Fundamentals",
+        "heat transfer and HVAC systems"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Arabic",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Bahasa Melayu",
+      "fluency": "Beginner"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Beginner"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Photography"
+    },
+    {
+      "name": "Hobby Electronics",
+      "keywords": [
+        "Raspberry PI",
+        "Ardunio",
+        "IoT"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Assoc. Prof. Dr. Azuraien Bt. Japper-Jaafar",
+      "reference": "He has proven that through hard work and dedication, he can accomplish the given tasks in an excellent and timely manner."
+    },
+    {
+      "name": "Dr. Mark Ovnis",
+      "reference": "I would rank him in the Top 10% of the postgraduate students that I have interacted with."
+    }
+  ]
+}
