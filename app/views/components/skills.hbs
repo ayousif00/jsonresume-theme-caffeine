@@ -1,6 +1,7 @@
 {{#if resume.skills.length}}
     <div class="skills-container">
         {{#each resume.skills}}
+        {{> title value="Professional Skills"}}
             <section class="container">
                 {{#if name}}
                     {{> title value=name}}
