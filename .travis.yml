@@ -23,5 +23,4 @@ deploy:
   file: resume.pdf
   skip_cleanup: true
   on:
-    tags: true
     repo: ayousif00/jsonresume-theme-caffeine
