@@ -21,7 +21,8 @@
       "position": "Mechanical Engineer",
       "website": "http://eag.my",
       "startDate": "2016-11-01",
-      "summary": "EAG Consulting is Green Building Consultant specialised in offering a set of professional green building services related to green building certification and green building strategy.",      "highlights": [
+      "summary": "EAG Consulting is Green Building Consultant specialised in offering a set of professional green building services related to green building certification and green building strategy.",
+      "highlights": [
         "Design and Formulate sustainability strategy, prepare reports and design reviews for clients as part of Green Building Index (GBI) and LEED certifications.",
         "Prepared Architecture, Landscape and Mechanical and Electrical Design reviews to ensure the project team will achieve the targeted green building rating.",
         "Assisted in the Modelling of projects with simulation software such as eQUEST, in order to provide optimised designs to achieve a lower total building energy consumption.",
@@ -33,8 +34,8 @@
       "position": "Simulation Engineer",
       "website": "https://www.fluxmatics.com",
       "startDate": "2016-03-01",
-      "summary": "Fluxmatics specializes in providing engineering solutions that require advanced engineering and advanced analysis tools with an emphasis on affordable results and new technologies.",      "highlights" : [
-        "As a freelance CFD engineer, I offered a range of services including research and development.",
+      "summary": "Fluxmatics specializes in providing engineering solutions that require advanced engineering and advanced analysis tools with an emphasis on affordable results and new technologies.",
+      "highlights" : [
         "Working on CFD simulations of single and multi-phase flows in ANSYS Fluent, OpenFOAM and Star-CCM+.",
         "Enjoyed setting up and adapting technologies and learned a lot about networking, budgeting and conducting negotiations."
       ]
@@ -144,8 +145,8 @@
     {
       "level": "CAD/Simulation Skills",
       "keywords": [
-        "EnergyPlus simulation and eQUEST",
-        "Autodesk Inventor and Solidworks (CAD)",
+        "EnergyPlus simulation",
+        "Autodesk Inventor and Solidworks",
         "Schlumberger OLGA",
         "C++ and Python",
         "Linux"
@@ -157,7 +158,8 @@
         "sustainable Engineering and Design",
         "Fluid rheology",
         "Flow Assurance",
-        "Fluid mechanics"      ]
+        "Fluid mechanics"
+      ]
     }
   ],
   "languages": [
