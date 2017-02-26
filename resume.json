@@ -21,14 +21,11 @@
       "position": "Mechanical Engineer",
       "website": "http://eag.my",
       "startDate": "2016-11-01",
-      "summary": "EAG Consulting is Green Building Consulting specialised in offering a complete set of professional green building services related to sustainable building and green building certification and green building strategy.",
-      "highlights": [
+      "summary": "EAG Consulting is Green Building Consultant specialised in offering a set of professional green building services related to green building certification and green building strategy.",      "highlights": [
         "Design and Formulate sustainability strategy, prepare reports and design reviews for clients as part of Green Building Index (GBI) and LEED certifications.",
         "Prepared Architecture, Landscape and Mechanical and Electrical Design reviews to ensure the project team will achieve the targeted green building rating.",
-        "Assisted in the Modelling of projects with simulation software such as eQUEST and, in order to provide optimised designs to achieve a lower total building energy consumption.",
-        "Utilising computer modelling and to conduct calculations such as OTTV, RTTV, Air Flow and other analysis for certification requirements.",
-        "Coordinated with clients and other consultants on the projects’ design along with its green compliance in Client Consultant Meetings and Technical Coordination Meetings.",
-        "Utilise Technical and design knowledge of ACMV & HVAC Systems and concepts – Cooling Load Calculation, Radiant Cooling, Ventilation Rate Requirement, Under Floor Air Distribution, High-Efficiency Chillers for the requirements of ASHRAE 62.1 and ASHRAE 55."
+        "Assisted in the Modelling of projects with simulation software such as eQUEST, in order to provide optimised designs to achieve a lower total building energy consumption.",
+        "Coordinated with clients and other consultants on the projects’ design along with its green compliance in Client Consultant Meetings and Technical Coordination Meetings."
       ]
     },
     {
@@ -36,8 +33,7 @@
       "position": "Simulation Engineer",
       "website": "https://www.fluxmatics.com",
       "startDate": "2016-03-01",
-      "summary": "Fluxmatics specialise in providing engineering solutions that require advanced engineering, high technological value, requiring bespoke solutions, and advanced analysis tools with an emphasis on the affordable development of new technologies.",
-      "highlights" : [
+      "summary": "Fluxmatics specializes in providing engineering solutions that require advanced engineering and advanced analysis tools with an emphasis on affordable results and new technologies.",      "highlights" : [
         "As a freelance CFD engineer, I offered a range of services including research and development.",
         "Working on CFD simulations of single and multi-phase flows in ANSYS Fluent, OpenFOAM and Star-CCM+.",
         "Enjoyed setting up and adapting technologies and learned a lot about networking, budgeting and conducting negotiations."
@@ -61,8 +57,7 @@
       "website": "https://utp.edu.my",
       "startDate": "2013-05-01",
       "endDate": "2015-10-01",
-      "summary": "Universiti Teknologi PETRONAS is a private university in Malaysia that places a strong emphasis on research and development, conducting extensive research activities in collaboration with PETRONAS and other institutions and industries locally and abroad focusing on Enhanced Oil Recovery, Carbon Dioxide Management, Deepwater Technology, Nanotechnology and other emerging technologies. The university is a wholly owned subsidiary of PETRONAS, the national oil company of Malaysia.",
-      "highlights" : [
+      "summary": "Universiti Teknologi PETRONAS places a strong emphasis on research and development. The university is a wholly owned subsidiary of PETRONAS, the national oil company of Malaysia.",      "highlights" : [
         "Participated in a Flow Assurance Consulting project for PETRONAS Research by evaluating aged flow assurance equipment and preparing an advisory usage report.",
         "Co-supervised several projects including: ”Investigation on stability mechanism and behaviour of waxy crude oil emulsion and the rag layer from Malay basin,” “Entrance length of Non-Newtonian Polymer Fluids” and “Exploring Gravity-Driven Flow Setup for Drag Reduction Assessment of Polyacrylamide and Xanthan Gum Solutions.”"
         ]
