@@ -140,17 +140,16 @@
     {
       "level": "CFD/CAE Skills",
       "keywords": [
-        "ANSYS CFX",
-        "ANSYS Fluent",
+        "ANSYS CFX and Fluent",
         "OpenFOAM",
         "SnappyHexMesh"
+
       ]
     },
     {
       "level": "CAD/Simulation Skills",
       "keywords": [
-        "EnergyPlus simulation",
-        "eQUEST",
+        "EnergyPlus simulation and eQUEST",
         "Autodesk Inventor and Solidworks (CAD)",
         "Schlumberger OLGA",
         "C++ and Python",
