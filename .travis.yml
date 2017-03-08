@@ -5,7 +5,8 @@ branches:
   only:
   - master
 before_install:
-- npm install -g gulp-cli resume-cli
+- npm install -g gulp
+- npm install -g resume-cli
 install:
 - npm install
 before_script:
