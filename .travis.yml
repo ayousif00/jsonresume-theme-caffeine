@@ -12,7 +12,9 @@ before_script:
 - npm link
 script:
 - gulp
+- resume test
 - resume export
+- gulp export
 deploy:
   provider: releases
   api_key:
