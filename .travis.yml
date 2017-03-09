@@ -5,7 +5,7 @@ branches:
   only:
   - master
 before_install:
-- npm install -g gulp
+- npm install -g gulp-cli
 - npm install -g resume-cli
 install:
 - npm install
@@ -13,8 +13,7 @@ before_script:
 - npm link
 script:
 - gulp
-- resume test
-- resume export resume.pdf
+- gulp export
 deploy:
   provider: releases
   api_key:
