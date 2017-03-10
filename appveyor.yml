@@ -26,9 +26,7 @@ deploy:
   provider: GitHub
   auth_token:
     secure: Er3nROIznNFgU1YSgBtuGHwcQAky7BIaODAd/V2s+o+9EBawRxzV2leWrkUDWopO # your encrypted token from GitHub
-  artifact:
-    - path: resume.pdf
-    name: resume
+  artifact: '*.pdf'
   draft: false
   prerelease: yes
   on:
