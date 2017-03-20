@@ -1,6 +1,4 @@
 language: node_js
-addons:
-  artifacts: true
 branches:
   only:
   - master
@@ -11,6 +9,8 @@ install:
 script:
 - npm start
 - gulp export --format html
+addons:
+  artifacts: true
 deploy:
   provider: releases
   api_key:

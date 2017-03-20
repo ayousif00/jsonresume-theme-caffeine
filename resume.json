@@ -6,7 +6,7 @@
     "email": "ayousif00@gmail.com",
     "phone": "(+60) 017-3382347",
     "website": "https://www.abdulous.com",
-    "summary": "Abdulrahman Yousif Hails from Sudan. He has earned degrees from the Universiti Putra Malaysia and Universiti Teknologi PETRONAS. He currently works for EAG Consulting as a Mechanical Engineer. While his work focuses on Green Buildings and Sustainability strategies, his non-work interests range widely, everything from Photography to Electronics and programming. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "summary": "My name is Abdulrahman Yousif, hailing from the Sudan. I Have a master of Mechanical Engineering Degree from Universiti Teknologi PETRONAS. I am currently a Mechanical Engineer at a sustainability firm, with experience in ANSYS Fluent, OpenFOAM, and all things CAD and simulation related. My current objective is to obtain an entry-level position as a mechanical engineer at a Technical Engineering firm, allowing me to utilise my education and experience in hands-on engineering while gaining valuable work experience in a stimulating and challenging environment.",
     "location": {
       "address": "No.12, Jalan Mesra Utama 2, Taman Mesra Utama",
       "postalCode": "43000",
@@ -153,9 +153,7 @@
       "keywords": [
         "ANSYS CFX and Fluent",
         "SOLIDWORKS Flow Simulation",
-        "OpenFOAM",
-        "SnappyHexMesh"
-
+        "OpenFOAM"
       ]
     },
     {
@@ -164,9 +162,7 @@
         "Dassault CATIA",
         "Autodesk Inventor",
         "Dassault SolidWorks",
-        "Schlumberger OLGA",
-        "C++ and Python",
-        "Linux"
+        "Linux, C++ and Python"
       ]
     },
     {
@@ -175,18 +171,15 @@
         "CNC and G-code programming (Mastercam)",
         "Metal inert gas (MIG) welding",
         "Gas tungsten arc welding (GTAW)",
-        "Shielded metal arc welding (SMAW)",
-        "Milling",
+        "Milling and turning processes",
         "Basic Woodworking"
       ]
     },
     {
       "level": "Engineering Experience and Soft Skills",
       "keywords": [
-        "Mechanical Design",
-        "sustainable Engineering",
+        "Mechanical Design and sustainable Engineering",
         "Fluid rheology",
-        "Flow Assurance",
         "Fluid mechanics"
       ]
     }
