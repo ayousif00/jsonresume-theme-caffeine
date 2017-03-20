@@ -6,7 +6,7 @@
     "email": "ayousif00@gmail.com",
     "phone": "(+60) 017-3382347",
     "website": "https://www.abdulous.com",
-    "summary": "Abdulrahman Yousif Hails from Sudan. He has earned degrees from the Universiti Putra Malaysia and Universiti Teknologi PETRONAS. He currently works for EAG Consulting as a Mechanical Engineer. While his work focuses on Green Buildings and Sustainability strategies, his non-work interests range widely, everything from Photography to electronics and programming. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "summary": "Abdulrahman Yousif Hails from Sudan. He has earned degrees from the Universiti Putra Malaysia and Universiti Teknologi PETRONAS. He currently works for EAG Consulting as a Mechanical Engineer. While his work focuses on Green Buildings and Sustainability strategies, his non-work interests range widely, everything from Photography to Electronics and programming. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
     "location": {
       "address": "No.12, Jalan Mesra Utama 2, Taman Mesra Utama",
       "postalCode": "43000",
@@ -34,9 +34,10 @@
       "position": "Simulation Engineer",
       "website": "https://www.fluxmatics.com",
       "startDate": "2016-03-01",
+      "endDate": "2016-11-01",
       "summary": "Fluxmatics specializes in providing engineering solutions that require advanced engineering and advanced analysis tools with an emphasis on affordable results and new technologies.",
       "highlights" : [
-        "Working on CFD simulations of single and multi-phase flows in ANSYS Fluent, OpenFOAM and Star-CCM+.",
+        "Worked on CFD simulations of single and multi-phase flows in ANSYS Fluent, OpenFOAM and Star-CCM+.",
         "Enjoyed setting up and adapting technologies and learned a lot about networking, budgeting and conducting negotiations."
       ]
     },
@@ -48,7 +49,7 @@
       "endDate": "2016-02-01",
       "summary": "Taylor's University offers courses in tertiary education, from foundation and diploma to degree, post-graduate and professional programs.",
       "highlights" : [
-        "Carried out an ecological footprint study on the usage of Solar hybrid power systems a regional island",
+        "Carried out an ecological footprint study on the usage of Solar hybrid power systems a regional island.",
         "Utilised ANSYS Fluent to conduct a study on fluid flow-solar heat interaction."
         ]
     },
@@ -60,7 +61,21 @@
       "endDate": "2015-10-01",
       "summary": "Universiti Teknologi PETRONAS places a strong emphasis on research and development. The university is a wholly owned subsidiary of PETRONAS, the national oil company of Malaysia.",      "highlights" : [
         "Participated in a Flow Assurance Consulting project for PETRONAS Research by evaluating aged flow assurance equipment and preparing an advisory usage report.",
-        "Co-supervised several undergraduate projects including: ”Investigation on stability mechanism and behaviour of waxy crude oil emulsion and the rag layer from Malay basin,”"
+        "Co-supervised several undergraduate projects including: ”Investigation on stability mechanism and behaviour of waxy crude oil emulsion and the rag layer from Malay basin.”"
+        ]
+    },
+    {
+      "company": "Universiti Putra Malaysia",
+      "position": "Team Manager, Shell Eco-Marathon Project",
+      "website": "https://upm.edu.my",
+      "startDate": "2011-10-01",
+      "endDate": "2012-07-15",
+      "summary": "Managed a team of 16 students on building two cars for the shell Eco-Marathon Asia 2012  with results receiving international media attention.",
+      "highlights" : [
+        "Proposed the project and worked with Faculty supervision in securing $15,000 of project funding.",
+        "Led the design team in jointly designing, testing and building an energy-efficient concept city car.",
+        "Led day to day and overall project plan and supervison of 16 students team by utilizing MS Project.",
+        "Participated in the Manufacturing of the two cars for the shell Eco-Marathon Asia by utilizing Technical Skills such as MIG welding and Lathe turinging, also took the opportunity in transferring those skills to new students."
         ]
     }
   ],
@@ -137,6 +152,7 @@
       "level": "CFD/CAE Skills",
       "keywords": [
         "ANSYS CFX and Fluent",
+        "SOLIDWORKS Flow Simulation",
         "OpenFOAM",
         "SnappyHexMesh"
 
@@ -145,17 +161,30 @@
     {
       "level": "CAD/Simulation Skills",
       "keywords": [
-        "EnergyPlus simulation",
-        "Autodesk Inventor and Solidworks",
+        "Dassault CATIA",
+        "Autodesk Inventor",
+        "Dassault SolidWorks",
         "Schlumberger OLGA",
         "C++ and Python",
         "Linux"
       ]
     },
     {
-      "level": "Engineering Experience",
+      "level": "Technical Skills",
       "keywords": [
-        "sustainable Engineering and Design",
+        "CNC and G-code programming (Mastercam)",
+        "Metal inert gas (MIG) welding",
+        "Gas tungsten arc welding (GTAW)",
+        "Shielded metal arc welding (SMAW)",
+        "Milling",
+        "Basic Woodworking"
+      ]
+    },
+    {
+      "level": "Engineering Experience and Soft Skills",
+      "keywords": [
+        "Mechanical Design",
+        "sustainable Engineering",
         "Fluid rheology",
         "Flow Assurance",
         "Fluid mechanics"
