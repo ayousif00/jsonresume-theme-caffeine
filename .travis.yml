@@ -13,14 +13,11 @@ install:
 script:
 - npm start
 - gulp export --format html
-addons:
-  artifacts: true
 deploy:
   provider: releases
   api_key:
     secure: ADs4ub39MyhXTt27N13d1xNuaLnflsq8EB/hi9zrFGBMU72AOIiKAkBxc6GJD2Vl1seltOIasZnQJCqCFe0E/rZNG5eZ9Q0eH/JTKwhmg8Krpc8TkPOTj3nedS/K+AKBJTJiqLHHH+It41PqvD8+S3ha4MgaJ/y/udwDO6ddk9k5hAS8hpLgr/ujN/YhAFA/FYUzYNZ7924yTsy7j4WOht4TC2eJVZ4kRYcr6wwgXBZj1IdrMM6Oy5eYsY3BF+oaU4LSHI34p01ZBWjCAkNZEk7/sI6gmAOOaB/EBnQ+atw+P5pPOx9tcMKyiDCsdNWaYb+qs0EJZplNDSUsdon2WTg/pfCr2AqqgjQ2KownoVkvfmyaZiyY+uS/AkkqdE65xbAseMJjkuXz3DTBkMI7uyKf1LINUCEGYJpXhq+1gvT52pdj7aNugFxxG0wFGwPuYBZblRdgCoG5L6ykPYCCOHgtEjmqyTIGG/AIc02Pm/AV4mW8d8BcLOVcMu/9SDVJft+z2lbB54HFO0c1wKxFeQIn3QwdSIYvwPnE31+GO8JLku823hQpRZJG0uY1Mz7rBOh8m7RQnl4/hK482WhOpWDkjrMO5ZPTudJUrKK5KxTpkvEctxfCRcCnMCt09YlItutj0rKrZco4+HMSS/lemEnLdxGldLwIrG2Jt76by1o=
-  file_glob: true
-  file: directory/*
+  file: resume.pdf
   skip_cleanup: true
   on:
     repo: ayousif00/jsonresume-theme-caffeine
