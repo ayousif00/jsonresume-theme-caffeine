@@ -9,14 +9,16 @@ branches:
 addons:
 chrome: stable
 before_install:
+- apt-get install -y firefox xvfb
 - google-chrome-stable --headless --disable-gpu --remote-debugging-port=9222 http://localhost &
-- npm install -g gulp-cli resume-cli html-pdf
+- npm install -g gulp-cli resume-cli html-pdf htmltopdf
+- npm i slimer-html-pdf --save
 install:
 - npm install
 script:
 - npm start
 - gulp export --format html
-- html-pdf /home/travis/build/ayousif00/jsonresume-theme-caffeine/resume.html updated_resume.pdf
+- slimer-html-pdf /home/travis/build/ayousif00/jsonresume-theme-caffeine/resume.html updated_resume.pdf
 deploy:
   provider: releases
   api_key:
