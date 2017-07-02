@@ -16,6 +16,7 @@ install:
 script:
 - npm start
 - gulp export --format html
+- chrome --headless --disable-gpu --print-to-pdf /home/travis/build/ayousif00/jsonresume-theme-caffeine/resume.html
 deploy:
   provider: releases
   api_key:
