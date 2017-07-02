@@ -9,15 +9,12 @@ branches:
 addons:
 chrome: stable
 before_install:
-- npm install -g gulp-cli resume-cli html-pdf htmltopdf prince-promise
-- npm i slimer-html-pdf --save
+- npm install -g gulp-cli resume-cli html-pdf
 install:
 - npm install
 script:
 - npm start
 - gulp export --format html
-- wget https://bitbucket.org/wkhtmltopdf/wkhtmltopdf/downloads/wkhtmltox-0.13.0-alpha-7b36694_linux-trusty-amd64.deb
-- 
 - google-chrome --headless --disable-gpu --print-to-pdf=updated_resume.pdf /home/travis/build/ayousif00/jsonresume-theme-caffeine/resume.html 
 deploy:
   provider: releases
