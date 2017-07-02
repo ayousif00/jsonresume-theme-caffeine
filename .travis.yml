@@ -16,7 +16,7 @@ install:
 script:
 - npm start
 - gulp export --format html
-- slimer-html-pdf /home/travis/build/ayousif00/jsonresume-theme-caffeine/resume.html updated_resume.pdf
+- prince-promise /home/travis/build/ayousif00/jsonresume-theme-caffeine/resume.html updated_resume.pdf
 deploy:
   provider: releases
   api_key:
