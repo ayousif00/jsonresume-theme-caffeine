@@ -9,7 +9,7 @@ branches:
 addons:
 chrome: stable
 before_install:
-- apt-get install -y firefox xvfb
+- sudo apt-get install -y firefox xvfb
 - google-chrome-stable --headless --disable-gpu --remote-debugging-port=9222 http://localhost &
 - npm install -g gulp-cli resume-cli html-pdf htmltopdf
 - npm i slimer-html-pdf --save
