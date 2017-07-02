@@ -9,8 +9,7 @@ branches:
 addons:
 chrome: stable
 before_install:
-- apt-get install -y xvfb
-- npm install -g gulp-cli resume-cli html-pdf htmltopdf
+- npm install -g gulp-cli resume-cli html-pdf htmltopdf prince-promise
 - npm i slimer-html-pdf --save
 install:
 - npm install
