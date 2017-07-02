@@ -1,4 +1,4 @@
-os: osx
+os: dusty
 language: node_js
 sudo: false
 node_js:
@@ -6,7 +6,10 @@ node_js:
 branches:
   only:
   - master
+addons:
+chrome: stable
 before_install:
+- google-chrome-stable --headless --disable-gpu --remote-debugging-port=9222 http://localhost &
 - npm install -g gulp-cli resume-cli
 install:
 - npm install
