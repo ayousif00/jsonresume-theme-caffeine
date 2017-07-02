@@ -18,7 +18,7 @@ script:
 - gulp export --format html
 - wget https://bitbucket.org/wkhtmltopdf/wkhtmltopdf/downloads/wkhtmltox-0.13.0-alpha-7b36694_linux-trusty-amd64.deb
 - 
-- google-chrome --headless --disable-gpu --print-to-pdf /home/travis/build/ayousif00/jsonresume-theme-caffeine/resume.html updated_resume.pdf
+- google-chrome --headless --disable-gpu --print-to-pdf=updated_resume.pdf /home/travis/build/ayousif00/jsonresume-theme-caffeine/resume.html 
 deploy:
   provider: releases
   api_key:
