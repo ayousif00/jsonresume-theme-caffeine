@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Abdulrahman Yousif",
-    "label": "Project Executive - Mechanical Engineer",
+    "label": "Project Executive - Mechanical Engineering",
     "picture": "http://i.imgur.com/3K7zL7M.jpg",
     "email": "ayousif00@gmail.com",
     "phone": "(+60) 017-3382347",
@@ -9,8 +9,8 @@
     "summary": "My name is Abdulrahman Yousif, hailing from the Sudan. I Have a master of Mechanical Engineering Degree from Universiti Teknologi PETRONAS. I am currently a Mechanical Engineer at a sustainability firm, with experience in ANSYS Fluent, OpenFOAM, and all things CAD and simulation related. My current objective is to obtain an entry-level position as a mechanical engineer at a Technical Engineering firm, allowing me to utilise my education and experience in hands-on engineering while gaining valuable work experience in a stimulating and challenging environment.",
     "location": {
       "address": "No.12, Jalan Mesra Utama 2, Taman Mesra Utama",
-      "postalCode": "43000",
-      "city": "Kajang",
+      "postalCode": "43300",
+      "city": "Balakong",
       "countryCode": "MY",
       "region": "MY"
     }
@@ -18,27 +18,29 @@
   "work": [
     {
       "company": "EAG Consulting Sdn. Bhd. (limited)",
-      "position": "Mechanical Engineer",
+      "position": "Mechanical Engineer & Project Executive",
       "website": "http://eag.my",
       "startDate": "2016-11-01",
       "summary": "EAG Consulting is Green Building Consultant specialised in offering a set of professional green building services related to green building certification and green building strategy.",
       "highlights": [
-        "Design and Formulate sustainability strategy, prepare reports and design reviews for clients as part of Green Building Index (GBI) and LEED certifications.",
-        "Prepared Architecture, Landscape and Mechanical and Electrical Design reviews to ensure the project team will achieve the targeted green building rating.",
-        "Assisted in the Modelling of projects with simulation software such as eQUEST, in order to provide optimised designs to achieve a lower total building energy consumption.",
-        "Coordinated with clients and other consultants on the projects’ design along with its green compliance in Client Consultant Meetings and Technical Coordination Meetings."
+        "Project Engineering ­ Worked with engineering firms & building owners assisting with review of mechanical systems designs & automation sequences in order to create and maintain sustainable systems with low Carbon footprints.",
+        "Design and Formulate sustainability strategy, assisting clients in pursing Green Building Index (GBI) and United States Green Building Council LEED certifications.",
+        "Assisted in the Modelling of projects with simulation software such as IES and OpenFOAM, in order to provide optimised designs to achieve a lower total building energy consumption.",
+        "Coordinated with clients and other consultants on the projects’ design along with its green compliance in Client Consultant Meetings and Technical Coordination Meetings.",
+        "Provide enhanced commissioning services (GBI CxS and LEED CxA) to ensure installed building systems and services perform as designed and comply with the green building certifications’ requirements.",
+        "Communicate effectively with managers on job planning, progression and execution."
       ]
     },
     {
       "company": "Fluxmatics",
-      "position": "Simulation Engineer",
+      "position": "Research and Application CFD/FEA Engineer",
       "website": "https://www.fluxmatics.com",
       "startDate": "2016-03-01",
       "endDate": "2016-11-01",
       "summary": "Fluxmatics specializes in providing engineering solutions that require advanced engineering and advanced analysis tools with an emphasis on affordable results and new technologies.",
       "highlights" : [
         "Worked on CFD simulations of single and multi-phase flows in ANSYS Fluent, OpenFOAM and Star-CCM+.",
-        "Enjoyed setting up and adapting technologies and learned a lot about networking, budgeting and conducting negotiations."
+        "I've enjoyed setting up and adapting technologies such as ANSYS Fluent and openFOAM and learned a lot about networking, budgeting and conducting negotiations."
       ]
     },
     {
