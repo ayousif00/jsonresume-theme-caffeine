@@ -1,10 +1,10 @@
 .container {
-    padding-top: spacing(4);
+    padding-top: spacing(4.8);
 }
 
 .keyline {
     width: spacing(9);
-    margin: 8px 0 10px;
+    margin: 2px 0 6px;
     border-top: 1px solid $primary-color;
 }
 
@@ -14,6 +14,10 @@
 
 .pull-right {
     float: right;
+}
+
+.center-text {
+	text-align: center;
 }
 
 .clearfix {
@@ -34,4 +38,48 @@
 
 .summary {
     margin: spacing(1) 0 spacing(1);
+}
+
+.education-area {
+	margin-left: 10px;
+}
+
+.profile-header {
+	h1 {
+		@include font-size(8);
+	}
+	
+	h2 {
+		@include font-size(5);
+	}
+}
+
+span.awarder {
+	font-weight: 300;
+	@include font-size(3);
+}
+
+footer {
+	position: relative;
+    left: -34px;
+    bottom: -30px;
+    width: 95%;
+    border-top: 1px solid black;
+    font-size: 9px;
+}
+
+.list li {
+    float: left;
+    list-style-position: inside;
+    list-style-type: none;
+}
+
+.list:after { /* Clearfix hack */
+    content: "";
+    display: block;
+    clear: both;
+}
+
+a.link {
+	color: #2895F1;
 }
