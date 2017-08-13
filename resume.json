@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Abdulrahman Yousif",
-    "label": "Project Executive - Mechanical Engineering",
+    "label": "Project Executive & Mechanical Engineering",
     "picture": "http://i.imgur.com/3K7zL7M.jpg",
     "email": "ayousif00@gmail.com",
     "phone": "(+60) 017-3382347",
     "website": "https://www.abdulous.com",
-    "summary": "My name is Abdulrahman Yousif, hailing from the Sudan. I Have a master of Mechanical Engineering Degree from Universiti Teknologi PETRONAS. I am currently a Mechanical Engineer at a sustainability firm, with experience in ANSYS Fluent, OpenFOAM, and all things CAD and simulation related. My current objective is to obtain an entry-level position as a mechanical engineer at a Technical Engineering firm, allowing me to utilise my education and experience in hands-on engineering while gaining valuable work experience in a stimulating and challenging environment.",
+    "summary": "I Have a masters of Mechanical Engineering Degree from Universiti Teknologi PETRONAS and I currently  work as a Mechanical Engineer at a sustainability firm, with experience in Engineering Simulation and Visualization via a variety of tools (ANSYS Fluent, OpenFOAM, etc.) as well as Project Management and Commissioning. My current objective is to obtain an Mid-level position as a mechanical engineer at a Technical Engineering firm, allowing me to utilize my education and experience while gaining valuable work experience in a stimulating and challenging environment.",
     "location": {
-      "address": "No.12, Jalan Mesra Utama 2, Taman Mesra Utama",
-      "postalCode": "43300",
+      "address": "Taman Mesra Utama",
       "city": "Balakong",
-      "countryCode": "MY",
-      "region": "MY"
+      "region": "MY",
+      "postalCode": "43300",
+      "countryCode": "MY"
     }
   },
   "work": [
@@ -21,14 +21,13 @@
       "position": "Mechanical Engineer & Project Executive",
       "website": "http://eag.my",
       "startDate": "2016-11-01",
-      "summary": "EAG Consulting is Green Building Consultant specialised in offering a set of professional green building services related to green building certification and green building strategy.",
+      "summary": "EAG Consulting is Green Building Consultant specialized in offering a set of professional green building services related to green building certification and green building strategy.",
       "highlights": [
-        "Project Engineering ­ Worked with engineering firms & building owners assisting with review of mechanical systems designs & automation sequences in order to create and maintain sustainable systems with low Carbon footprints.",
-        "Design and Formulate sustainability strategy, assisting clients in pursing Green Building Index (GBI) and United States Green Building Council LEED certifications.",
-        "Assisted in the Modelling of projects with simulation software such as IES and OpenFOAM, in order to provide optimised designs to achieve a lower total building energy consumption.",
-        "Coordinated with clients and other consultants on the projects’ design along with its green compliance in Client Consultant Meetings and Technical Coordination Meetings.",
-        "Provide enhanced commissioning services (GBI CxS and LEED CxA) to ensure installed building systems and services perform as designed and comply with the green building certifications’ requirements.",
-        "Communicate effectively with managers on job planning, progression and execution."
+        "As a Project executive I revamped Project management by introducing concepts such as planning and execution via agile sprints as well as introducing and training users to adapt optimized project management tools such as Asana.",
+        "Worked with engineering firms & other clients in assisting with the review of mechanical system design & automation in order to develop and maintain sustainable systems with low Carbon footprints.",
+        "Assisted multipliable Clients in pursing Green Building Index (GBI) and United States Green Building Council LEED certifications.",
+        "Assisted in the Modeling of projects with simulation software such as IES and OpenFOAM, in order to provide optimized designs to achieve a lower total building energy consumption.",
+        "Provide enhanced commissioning services (GBI CxS and LEED CxA) to ensure installed building systems and services perform as designed and comply with the green building certifications’ requirements."
       ]
     },
     {
