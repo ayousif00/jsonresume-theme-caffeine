@@ -4,22 +4,22 @@
 
     {{#each resume.work}}
         <section class="item">
-            {{> section-header }}
+            {{> section-header name=this.company }}
 
             {{#if position}}
-				<h4>{{position}}</h4>
+            <h4>{{position}}</h4>
             {{/if}}
 
             {{#if summary}}
-				<ul><li class="summary">{{{summary}}}</li></ul>
+            <p class="summary">{{summary}}</p>
             {{/if}}
 
             {{#if highlights.length}}
-				<ul>
-					{{#each highlights}}
-					<li>{{{.}}}</li>
-					{{/each}}
-				</ul>
+            <ul>
+                {{#each highlights}}
+                <li>{{.}}</li>
+                {{/each}}
+            </ul>
             {{/if}}
         </section>
     {{/each}}

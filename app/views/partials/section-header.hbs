@@ -1,28 +1,25 @@
 <div class="section-header clearfix">
     {{#if name}}
     <h3 class="bold pull-left">
-        {{#if url}}
-            <a class="link" href="{{url}}" target="_blank">
+        {{#if website}}
+            <a href="{{website}}" target="_blank">
                 {{name}} <i class="fa fa-external-link" aria-hidden="true"></i>
             </a>
         {{else}}
-            {{name}}{{#if awarder}}<span class="awarder"> - {{awarder}}</span>{{/if}}
+            {{name}}
         {{/if}}
     </h3>
     {{/if}}
-    <h5 class="italic bold pull-right">
+    <h5 class="italic pull-right">
         {{#if startDate}}
+            <span class="startDate">{{formatDate startDate}}</span>
             {{#if endDate}}
-				<span class="startDate">{{formatDate startDate endDate}}</span>
-				<span class="endDate"> - {{formatDate endDate undefined}}</span>
+            <span class="endDate"> - {{formatDate endDate}}</span>
             {{else}}
-				<span class="startDate">{{formatDate startDate startDate}}</span>
-				<span class="endDate"> - Present</span>
+            <span class="endDate"> - Present</span>
             {{/if}}
-        {{else if endDate}}
-			<span class="endDate">{{formatDate endDate undefined}}</span>			
-		{{else if date}}
-            {{formatYear date}}
+        {{else if releaseDate}}
+            {{formatDate releaseDate}}
         {{/if}}
     </h5>
 </div>
