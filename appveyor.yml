@@ -9,7 +9,10 @@ install:
   # install modules
   - npm install -g gulp-cli resume-cli
   - npm install
+  - npm link
   - npm start
+  - gulp
+  - gulp export
 
 # Post-install test scripts.
 test_script:
@@ -19,14 +22,14 @@ test_script:
 
 # Don't actually build.
 #build: off
-# deploy:
-#   release: myproduct-v$(appveyor_build_version)
-#   description: 'Release description'
-#   provider: GitHub
-#   auth_token:
-#     secure: Er3nROIznNFgU1YSgBtuGHwcQAky7BIaODAd/V2s+o+9EBawRxzV2leWrkUDWopO # your encrypted token from GitHub
-#   artifact: '*.pdf'
-#   draft: false
-#   prerelease: yes
-#   on:
-#     branch: master                 # release from master branch only
+ deploy:
+   release: myproduct-v$(appveyor_build_version)
+   description: 'Release description'
+   provider: GitHub
+   auth_token:
+     secure: Er3nROIznNFgU1YSgBtuGHwcQAky7BIaODAd/V2s+o+9EBawRxzV2leWrkUDWopO # your encrypted token from GitHub
+   artifact: '*.pdf'
+   draft: false
+   prerelease: yes
+   on:
+     branch: master                 # release from master branch only
